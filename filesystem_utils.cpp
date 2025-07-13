@@ -2,6 +2,7 @@
 #include <sys/stat.h>
 #include <filesystem>
 #include <string>
+#include <vector>
 
 struct stat info;
 namespace fs = std::filesystem;
