@@ -1,6 +1,7 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <filesystem>
+#include <vector>
 #include <string>
 
 struct stat info;
