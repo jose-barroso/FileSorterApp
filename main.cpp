@@ -1,7 +1,10 @@
 /*
-* File Sorter App in modern c++17
-Made by: José Barroso
-*/
+ * File Sorter Application
+ * Language: Modern C++20
+ * Author: José Barroso
+ * License: MIT License
+ * Description: A simple tool to sort files using modern C++ features.
+ */
 #include <iostream>
 #include <filesystem>
 #include <exception>
