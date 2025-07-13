@@ -38,9 +38,10 @@ A command-line application written in **C++20** that automatically organizes fil
 g++ -std=c++20 -o file_sorter main.cpp filesystem_utils.cpp
 ./file_sorter
 ```
-📌 Notes
-Works on Windows, Linux, and macOS.
-You can easily customize the destination folder or file grouping logic.
+## 📌 Notes
+- ✅ **Cross-platform**: Works on **Windows**, **Linux**, and **macOS**  
+- ⚙️ **Customizable**: Easily change the destination folder or adjust file grouping logic
+---
 
-📝 License
+## 📝 License
 MIT License © José Barroso
